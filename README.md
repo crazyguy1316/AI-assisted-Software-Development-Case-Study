@@ -84,7 +84,7 @@
 
 若希望快速了解本研究的重點結論、Demo 截圖與研究成果摘要，請參閱：
 
-- AI-assisted Software Development Showcase
+- AI-assisted Software Development Showcase <https://github.com/crazyguy1316/AI-assisted-Software-Development-Showcase>
 
 ---
 
